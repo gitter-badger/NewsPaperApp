@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NEWS</string>
+    <string name="Latest">Latest</string>
+    <string name="headlines">Headlines</string>
+    <string name="favorite">Favorite</string>
+    <string name="business">business</string>
+    <string name="technology">technology</string>
+    <string name="action_settings">settings</string>
+    <string name="entertainment">entertainment</string>
+    <string name="sports">sports</string>
+    <string name="health">health</string>
+    <string name="science">science</string>
+</resources>
